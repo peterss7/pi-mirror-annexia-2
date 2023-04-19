@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel Decorative');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+h1{
+    color: rgb(128, 0, 83);
+    text-shadow: 5px 5px 5px rgb(247, 0, 255);
+    width: 100vw;
+    
+    text-align: center;
+    font-size: 5em;    
+    font-variant: small-caps;
+}
+#decor{
+    font-family: 'Cinzel Decorative';
+}
+#reg{
+    font-family: 'Cinzel';
+}
+body{
+    background: gray;
+}
+
+main {
+    size: 100% 100%;
+}
